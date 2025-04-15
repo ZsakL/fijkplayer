@@ -1,0 +1,2 @@
+/home/hyzh/StudioProjects/Git/fijkplayer/example/android/app/.cxx/Debug/6l3g1715/x86_64/CMakeFiles/rebuild_cache.dir
+/home/hyzh/StudioProjects/Git/fijkplayer/example/android/app/.cxx/Debug/6l3g1715/x86_64/CMakeFiles/edit_cache.dir
