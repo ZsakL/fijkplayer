@@ -4,7 +4,8 @@ version '0.11.0'
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 34
+    namespace 'com.befovy.fijkplayer'  // ✅ 按实际包名写
+    compileSdkVersion 35
 
     defaultConfig {
         minSdkVersion 24
